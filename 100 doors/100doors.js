@@ -31,3 +31,5 @@ for (let pass = 1; pass <= 3; pass ++){
         console.log(doors.join(''));
     }
 }
+
+module.exports = doors;
