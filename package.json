@@ -1,0 +1,13 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "Small coding exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "raskolnikofa",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
